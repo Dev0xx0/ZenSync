@@ -2,9 +2,9 @@
 
 ## Overview
 
-Welcome to the MultiZen Browser project. This is an open-source multi-session browser, primarily designed for private browsing. It was developed out of a need for a substantial multi-session tool.
+Welcome to the r project. This is an open-source multi-session browser, primarily designed for private browsing. It was developed out of a need for a substantial multi-session tool.
 
-Check out the website: https://getmultizen.com/
+Check out the website: 
 
 ![MultiZen Overview](resources/preview/0.1.1.gif)
 
@@ -31,4 +31,4 @@ We welcome contributions of all kinds from the open-source community. Feel free 
 
 ## Support
 
-Join our [Discord server](https://discord.gg/pd6MhzPbJ3) for support and discussions.
+Join our  for support and discussions.
