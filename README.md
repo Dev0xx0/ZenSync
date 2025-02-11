@@ -1,4 +1,4 @@
-# MultiZen Browser
+# Zensync
 
 ## Overview
 
@@ -6,7 +6,7 @@ Welcome to the r project. This is an open-source multi-session browser, primaril
 
 Check out the website: 
 
-![MultiZen Overview](resources/preview/0.1.1.gif)
+Zensync.site
 
 ## Features
 
@@ -16,14 +16,6 @@ Check out the website:
 - Tech stack: Electron, Vue, Vuex.
 - Supported OS: Windows, Linux, Mac OS.
 
-## Getting Started
-
-The project is built using Electron, Vue, and Vuex. To get started with development, follow these steps:
-
-1. Clone the repository: `git clone https://github.com/multizenteam/multizen-browser.git`
-2. Navigate to the project directory: `cd multizen-browser`
-3. Install dependencies: `yarn install`
-4. Start the development server: `yarn dev`
 
 ## Contribution
 
